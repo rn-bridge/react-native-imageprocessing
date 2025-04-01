@@ -53,14 +53,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sriharshamadamanchi/rn-bridge/react-native-imageprocessing.git"
+    "url": "git+https://github.com/rn-bridge/react-native-imageprocessing.git"
   },
   "author": "sriharshamadamanchi <sriharshamadamanchiz@gmail.com> (https://github.com/sriharshamadamanchi)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sriharshamadamanchi/rn-bridge/react-native-imageprocessing/issues"
+    "url": "https://github.com/rn-bridge/react-native-imageprocessing/issues"
   },
-  "homepage": "https://github.com/sriharshamadamanchi/rn-bridge/react-native-imageprocessing#readme",
+  "homepage": "https://github.com/rn-bridge/react-native-imageprocessing#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
